@@ -1,3 +1,6 @@
+/*
+Copyright © 2024 Prithvijit Dasgupta <prithvid@umich.edu>
+*/
 package xsd
 
 type Revision struct {
@@ -9,7 +12,7 @@ type RedirectType struct {
 }
 
 type Page struct {
-	Id        string        `xml:"id"`
+	Id        string       `xml:"id"`
 	Title     string       `xml:"title"`
 	Namespace int64        `xml:"ns"`
 	Revisions []Revision   `xml:"revision"`

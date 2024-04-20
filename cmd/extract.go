@@ -1,13 +1,14 @@
 /*
-Copyright © 2024 NAME HERE <EMAIL ADDRESS>
+Copyright © 2024 Prithvijit Dasgupta <prithvid@umich.edu>
 */
 package cmd
 
 import (
 	"bytes"
 	"encoding/xml"
-	"wikiextract/extract"
-	"wikiextract/xsd"
+
+	"github.com/prithvidasgupta/wikiextract/extract"
+	"github.com/prithvidasgupta/wikiextract/xsd"
 
 	"github.com/spf13/cobra"
 )

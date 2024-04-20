@@ -1,3 +1,6 @@
+/*
+Copyright © 2024 Prithvijit Dasgupta <prithvid@umich.edu>
+*/
 package xsd
 
 import (

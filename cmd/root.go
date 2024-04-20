@@ -1,5 +1,5 @@
 /*
-Copyright © 2024 NAME HERE <EMAIL ADDRESS>
+Copyright © 2024 Prithvijit Dasgupta <prithvid@umich.edu>
 */
 package cmd
 
