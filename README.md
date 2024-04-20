@@ -1,6 +1,11 @@
 # wikiextract
 A tool to get the plainest text out of Wikipedia XML dumps. The output is a CSV file. Inspired by [attardi/Wikiextractor](https://github.com/attardi/wikiextractor)
 
+## Installation
+```
+go install github.com/prithvidasgupta/wikiextract
+```
+
 Example usage:
 
 ```
