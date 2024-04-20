@@ -1,4 +1,4 @@
-module wikiextract
+module github.com/prithvidasgupta/wikiextract
 
 go 1.21.5
 
